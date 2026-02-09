@@ -5,9 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ IT Projects
 
-- **[Active Directory Home Lab](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
+- **[Active Directory Home Lab]**
+   
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
